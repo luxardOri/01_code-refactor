@@ -12,8 +12,8 @@ No installations needed, but will need access to final project link and github. 
 
 To see the final project please see the links below:
 
-GitHub link: https://github.com/luxardOri/Week-1-Challenge
-Final project link: https://luxardori.github.io/Week-1-Challenge/
+GitHub link: https://github.com/luxardOri/01_code-refactor  
+Final project link: https://luxardori.github.io/01_code-refactor  
 
 You can see the html used by either clicking on the gitHub link or by inspecting the final project link.
 
